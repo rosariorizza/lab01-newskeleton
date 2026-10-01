@@ -13,8 +13,6 @@ class Film{
             this.rating = rating;
         if(favorite)
             this.favorite = favorite;
-    
-        this.self =  "/change/me"
     }
 }
 

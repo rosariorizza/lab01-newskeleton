@@ -8,8 +8,6 @@ class User{
         
         if(hash)
             this.hash = hash;
-
-        this.self =  "/change/me";
     }
 }
 

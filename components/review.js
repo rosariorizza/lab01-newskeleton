@@ -10,8 +10,6 @@ class Review{
             this.rating = rating;
         if(review)
             this.review = review;
-        
-        this.self =  "/change/me";
     }
 }
 
